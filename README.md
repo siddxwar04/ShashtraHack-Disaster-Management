@@ -23,3 +23,4 @@ This repository is intended to help individuals and communities prepare for and 
 ---
 
 Feel free to adjust the description based on specific project details or additional features you may have.
+![image](https://github.com/user-attachments/assets/abf83031-1d86-4f2f-8a82-1e313d694d5d)
