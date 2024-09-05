@@ -1,5 +1,5 @@
 "# ShashtraHack-Disaster-Management" 
-## Disaster Management Repository
+## Disaster Management 
 
 Welcome to the Disaster Management Repository! This project aims to provide a comprehensive and concise guide to safety measures for various natural disasters. Here’s what you’ll find in this repository:
 
